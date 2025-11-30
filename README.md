@@ -1,1 +1,0 @@
-ReadMeter – Cab Fare Comparison Website This project is a basic cab comparison website created only with HTML and CSS. It focuses on layout, design, and UI structure—no backend, no API, no JavaScript.
